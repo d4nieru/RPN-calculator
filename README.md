@@ -23,19 +23,27 @@ C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur une calculat
 
 **POUR L'ADDITION :**
 Effectuez cette commande pour créer une pile : **exemple_add** = Pile()
-puis effectuez cette commande pour l'addition : exemple_add.push(**un nombre au hasard**).push("un nombre au hasard").add()
+puis effectuez cette commande pour l'addition : exemple_add.push(**un nombre au hasard**).push(**un nombre au hasard**).add()
+
+(ex: 42 + 78 en code python c'est exemple_add.push(42).push(78).add()
  
 **POUR LA SOUSTRACTION :**
 Effectuez cette commande pour créer une pile : **exemple_soustr** = Pile()
-puis effectuez cette commande pour la soustraction : exemple_soustr.push(**un nombre au hasard**).push("un nombre au hasard").sub()
+puis effectuez cette commande pour la soustraction : exemple_soustr.push(**un nombre au hasard**).push(**un nombre au hasard**).sub()
+
+(ex: 147 - 78 en code python c'est exemple_soustr.push(147).push(78).sub()
  
 **POUR LA MULTIPLICATION :**
 Effectuez cette commande pour créer une pile : **exemple_multi** = Pile()
-puis effectuez cette commande pour la multiplication : exemple_multi.push(**un nombre au hasard**).push("un nombre au hasard").mul()
+puis effectuez cette commande pour la multiplication : exemple_multi.push(**un nombre au hasard**).push(**un nombre au hasard**).mul()
+
+(ex: 25 x 15 en code python c'est exemple_add.push(25).push(15).mul()
  
 **POUR LA DIVISION :**
 Effectuez cette commande pour créer une pile : **exemple_divis** = Pile()
-puis effectuez cette commande pour la division : exemple_divis.push(**un nombre au hasard**).push("un nombre au hasard").div()
+puis effectuez cette commande pour la division : exemple_divis.push(**un nombre au hasard**).push(**un nombre au hasard**).div()
+
+(ex: 500 / 50 en code python c'est exemple_add.push(500).push(50).div()
 
  
 ##### POUR LA DIVISION QUI EST CENSE ETRE IMPOSSIBLE #####
