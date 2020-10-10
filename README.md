@@ -19,11 +19,8 @@ C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur une calculat
 
 • Le programme se **retrouve ici** : https://pastebin.com/ce4b8HMA
 
-***Les commandes à taper dans la console***
+***Les commandes à taper dans la console : ***
 
-###################################
-
- 
 # POUR L'ADDITION :
 Effectuez cette commande pour créer une pile : **exemple_add** = Pile()
 puis effectuez cette commande pour l'addition : exemple_add.push("un nombre au hasard").push("un nombre au hasard").add()
@@ -46,6 +43,4 @@ Effectuez cette commande pour créer une pile : **divisioni** = Pile()
 puis effectuez cette commande pour la division : exemple_divis.push(0).push(1000).div()
  
  
-## DISCLAIMER : Pour la division impossible, celà annule pour une raison inconnue les autres calculs si vous le mettez dans le code :c ##
- 
-###################################
+## DISCLAIMER : Pour la division impossible, celà annule pour une raison inconnue les autres calculs si vous le mettez dans le code directement :c ##
