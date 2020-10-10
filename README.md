@@ -17,7 +17,7 @@ C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur une calculat
 
 # Le fameux code en PYTHON
 
-• Le programme se **retrouve ici** : https://pastebin.com/ce4b8HMA
+• Le programme se **retrouve ici** : https://pastebin.com/vwdxTr1s
 
 ***Les commandes à taper dans la console : ***
 
