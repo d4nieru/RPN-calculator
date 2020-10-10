@@ -9,7 +9,7 @@ C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur une calculat
 
 # Logiciel requis
 
-• N'importe quel logiciel qui execute du python et qui possède une console pour executer des commandes. ( Personnellement, on a utilisé le site web : https://repl.it )
+• N'importe quel logiciel qui execute du python et qui possède une console pour executer des commandes. ( Personnellement, j'ai utilisé le site web : https://repl.it )
 
 # Installation
 
