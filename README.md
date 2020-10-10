@@ -19,21 +19,21 @@ C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur une calculat
 
 • Le programme se **retrouve ici** : https://pastebin.com/vwdxTr1s
 
-***Les commandes à taper dans la console : ***
+# Les commandes à taper dans la console :
 
-# POUR L'ADDITION :
+**POUR L'ADDITION :**
 Effectuez cette commande pour créer une pile : **exemple_add** = Pile()
 puis effectuez cette commande pour l'addition : exemple_add.push("un nombre au hasard").push("un nombre au hasard").add()
  
-# POUR LA SOUSTRACTION:
+**POUR LA SOUSTRACTION :**
 Effectuez cette commande pour créer une pile : **exemple_soustr** = Pile()
 puis effectuez cette commande pour la soustraction : exemple_soustr.push("un nombre au hasard").push("un nombre au hasard").sub()
  
-# POUR LA MULTIPLICATION :
+**POUR LA MULTIPLICATION :**
 Effectuez cette commande pour créer une pile : **exemple_multi** = Pile()
 puis effectuez cette commande pour la multiplication : exemple_multi.push("un nombre au hasard").push("un nombre au hasard").mul()
  
-# POUR LA DIVISION :
+**POUR LA DIVISION :**
 Effectuez cette commande pour créer une pile : **exemple_divis** = Pile()
 puis effectuez cette commande pour la division : exemple_divis.push("un nombre au hasard").push("un nombre au hasard").div()
 
