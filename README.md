@@ -49,6 +49,3 @@ puis effectuez cette commande pour la division : exemple_divis.push(**un nombre 
 ##### POUR LA DIVISION QUI EST CENSE ETRE IMPOSSIBLE #####
 Effectuez cette commande pour créer une pile : **divisioni** = Pile()
 puis effectuez cette commande pour la division : exemple_divis.push(0).push(1000).div()
- 
- 
-## DISCLAIMER : Pour la division impossible, celà annule pour une raison inconnue les autres calculs si vous le mettez dans le code directement :c ##
