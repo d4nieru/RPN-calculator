@@ -15,10 +15,6 @@ C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur une calculat
 
 **IMPORTANT** : Si vous comprenez le language python et la structure du projet, vous pouvez le modifier a votre guise, faites-vous plaisir.
 
-# Le fameux code en PYTHON
-
-• Le programme se **retrouve ici** : https://pastebin.com/vwdxTr1s
-
 # Les commandes à taper dans la console :
 
 **POUR L'ADDITION :**
