@@ -5,11 +5,11 @@
 
 # À propos
 
-C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur une calculatrice RPN basé sur le système de pile. Le programme est écrit en python.
+C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur une calculatrice RPN basé sur le système de pile.
 
 # Logiciel requis
 
-• N'importe quel logiciel qui execute du python et qui possède une console pour executer des commandes. ( Personnellement, j'ai utilisé le site web : https://repl.it )
+• Un environnement de développement intégré pour le langage Python.
 
 # Installation
 
