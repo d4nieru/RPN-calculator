@@ -13,7 +13,7 @@ This was a school project on a RPN calculator based on the stack system.
 
 # Installation
 
-# The commands to type in the console
+***The commands to type only in the console***
 
 **FOR ADDITION:**
 Do this command to create a stack : **example_add** = Pile()
